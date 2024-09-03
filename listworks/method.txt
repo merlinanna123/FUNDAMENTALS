@@ -1,0 +1,19 @@
+number=[1,23,4]
+
+number.appened(5)
+
+number.insert(1,7)
+
+number.pop(5)
+
+number.count(1) dupplicates
+
+number.remove
+
+number.extend
+
+number.reverse
+
+
+
+
