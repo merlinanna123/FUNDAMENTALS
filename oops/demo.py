@@ -1,1 +1,1 @@
-print("object oriented programming")
+print("objected oriented programming")
